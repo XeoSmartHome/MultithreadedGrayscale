@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/multithreaded-filter.iml" filepath="$PROJECT_DIR$/.idea/multithreaded-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MultithreadedGrayscale.iml" filepath="$PROJECT_DIR$/.idea/MultithreadedGrayscale.iml" />
     </modules>
   </component>
 </project>
