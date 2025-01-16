@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-const DefaultNumberOfThreads = 1
+const DefaultNumberOfThreads = 2
 const InputDirectory = "input"
 const OutputDirectory = "output"
 
